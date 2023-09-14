@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2023-09-14 09:56:21.246464",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2023-09-14 09:56:21.246464",
+ "modified_by": "Administrator",
+ "module": "Frappe Vue",
+ "name": "test-vue",
+ "owner": "Administrator",
+ "page_name": "test-vue",
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Test Vue"
+}
