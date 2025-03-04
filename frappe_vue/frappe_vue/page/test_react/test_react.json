@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2025-03-04 09:24:20.500824",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2025-03-04 09:24:20.500824",
+ "modified_by": "Administrator",
+ "module": "Frappe Vue",
+ "name": "test-react",
+ "owner": "Administrator",
+ "page_name": "test-react",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Test React"
+}
